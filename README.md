@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NIcknameInvalido
-- 👀 I’m interested in artificial inteligence and automation tasks
-- 🌱 I’m currently learning language C and C++
-- 💞️ I’m looking to collaborate on projects for beginners
+- 👋 Hi, I’m Nikollas Santana
+- 👀 I’m interested in Data Engine
+- 🌱 I’m currently learning frameworks python, T-SQL, Business Intelligence, Data Engine
+- 💞️ I’m looking to collaborate on projects for juniors
 - 📫 How to reach me nikooza1@gmail.com
 
 <!---
